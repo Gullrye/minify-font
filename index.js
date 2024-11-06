@@ -2,6 +2,8 @@ const Fontmin = require("fontmin");
 const text = require("./chars");
 
 const fonts = [
+  // 思源宋体
+  "./fonts/SourceHanSerifCN-Regular.ttf",
   // 思源黑体
   "./fonts/SourceHanSansCN-Medium.ttf",
   // 阿里巴巴普惠体
